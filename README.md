@@ -1,8 +1,6 @@
-# saas-boilerplate
-This is a SaaS boilerplate built on top of the Laravel framework. 
-Built to provide developers with a template to kickoff their SaaS application,
-without the hustle for repetitive tasks such as user account setup, subscriptions 
-and role management.
+# SaaS Ultimate Online Marketing Suite
+This is a SaaS digital marketing app built on top of the Laravel framework. 
+
 
 ## features
 - Authentication
